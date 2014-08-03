@@ -1,0 +1,8 @@
+=====INSTALL METEOR===
+http://docs.meteor.com/#quickstart
+
+# meteor package manager
+sudo npm install -g meteorite
+
+1. Install bitcoind/bitcoin-qt
+https://bitcoin.org/en/version-history
